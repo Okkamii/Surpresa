@@ -76,10 +76,11 @@
     width: 150px;
     height: 250px;
     object-fit: cover;
+    margin-left: 0;
 }
 
 .text {
-    margin-right: 5vw;
     color: white;
     font-size: 5vw;
+    inline-size: 50vw;
 }
